@@ -13,9 +13,8 @@ font-size: 32px;
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
 }
-.arejaKaste {
-  border-style: dotted;
-  border-color: blue;
-  background-color: lightblue;
+.iesniegt {
+  border-style: solid;
+  border-radius: 30px;
   margin-left: 50%;
 }
